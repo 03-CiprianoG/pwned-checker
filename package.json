@@ -2,7 +2,7 @@
   "name": "pwnedchecker",
   "version": "1.0.0",
   "type": "module",
-  "description": "Software to check if a password is already been leaked using the pwned API ",
+  "description": "Software to check if a password is already been leaked using the pwned API",
   "main": "pwned.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
