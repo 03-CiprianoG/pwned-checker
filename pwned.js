@@ -1,6 +1,6 @@
 //importing libraries
 import prompt from "prompt";
-import bcrypt from "bcryptjs";
+
 import fetch from "node-fetch";
 
 //declaring variables

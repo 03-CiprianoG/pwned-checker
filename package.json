@@ -10,7 +10,6 @@
   "author": "Giuseppe Cipriano",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
     "node-fetch": "^3.0.0",
     "prompt": "^1.2.0"
   }
